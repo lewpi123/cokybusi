@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cokybusi/static/css/main.cc2f0027.css",
+    "main.js": "/cokybusi/static/js/main.9d5a91af.js",
+    "static/js/787.aadca95f.chunk.js": "/cokybusi/static/js/787.aadca95f.chunk.js",
+    "index.html": "/cokybusi/index.html",
+    "main.cc2f0027.css.map": "/cokybusi/static/css/main.cc2f0027.css.map",
+    "main.9d5a91af.js.map": "/cokybusi/static/js/main.9d5a91af.js.map",
+    "787.aadca95f.chunk.js.map": "/cokybusi/static/js/787.aadca95f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc2f0027.css",
+    "static/js/main.9d5a91af.js"
+  ]
+}
